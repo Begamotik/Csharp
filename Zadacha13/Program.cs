@@ -1,15 +1,43 @@
-﻿//Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-Console.Write("Введите номер дня недели:");
-int number = Input();
-if (number >=1 && number <=5)
+﻿//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+// 645 -> 5
+// 78 -> третьей цифры нет
+// 32679 -> 6
+Console.Clear();
+int InputIntNumber()
 {
-Console.WriteLine($"{DayWeek(number)}!Это будний день");
+    while (true)
+    {
+        try
+        {
+            Console.Write("Ведите целое число: ");
+            int number = int.Parse(Console.ReadLine() ?? "0");
+            return number;
+        }
+        catch
+        {
+            Console.WriteLine("Ошибка, введите целое число!");
+        }
+    }
 }
-else if (number == 6 || number == 7)
+
+int num = InputIntNumber();
+int length = num.ToString().Length;
+while (length > 3)
 {
-Console.WriteLine($"{DayWeek(number)}!Это выходной");
+    num = num / 10;
+    length --;
+}
+
+int frsNum = num / 100;
+int secNum = num / 10 % 10;
+int thrNum = num % 10;
+
+if (frsNum == 0)
+{
+    if (secNum == 0)
+        Console.WriteLine("Второй и третьей цифры нет");
+    else
+        Console.WriteLine("Третьей цифры нет");
 }
 else
-{
-Console.WriteLine("Введите значение от 1 до 7");
-}
+    Console.WriteLine("Третья цифра заданного числа: " + thrNum);
