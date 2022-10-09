@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\bin\Debug\net6.0\Zadacha41.exe
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\bin\Debug\net6.0\Zadacha41.deps.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\bin\Debug\net6.0\Zadacha41.runtimeconfig.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\bin\Debug\net6.0\Zadacha41.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\bin\Debug\net6.0\Zadacha41.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.AssemblyInfo.cs
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\refint\Zadacha41.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\Zadacha41.genruntimeconfig.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\Zadacha41\obj\Debug\net6.0\ref\Zadacha41.dll
