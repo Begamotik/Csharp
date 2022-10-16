@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\bin\Debug\net6.0\ZadachaAkerman.exe
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\bin\Debug\net6.0\ZadachaAkerman.deps.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\bin\Debug\net6.0\ZadachaAkerman.runtimeconfig.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\bin\Debug\net6.0\ZadachaAkerman.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\bin\Debug\net6.0\ZadachaAkerman.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.AssemblyInfo.cs
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\refint\ZadachaAkerman.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ZadachaAkerman.genruntimeconfig.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\HomeWork\HomeWork1\ZadachaAkerman\obj\Debug\net6.0\ref\ZadachaAkerman.dll
